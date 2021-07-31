@@ -42,3 +42,9 @@ body {
 .degree-section h2 {
   font-size: 4rem;
 }
+
+@media screen and (max-width: 700px) {
+  .location {
+    width: 90%;
+  }
+}
